@@ -6,4 +6,5 @@ In this project we are trying to implement recommendation systems using content 
 	We used three different algorithms to create these recommendation systems. One of the algorithms is a Matrix Factorization-based algorithm. The algorithm we chose to work with is the Singular Value Decomposition algorithm which comes from the Surprise library. The next algorithm we used is the Non-negative Matrix Factorization algorithm also from the surprise library. Lastly we chose KNN as our third algorithm with its several variants from the surprise library.The objective of this project is to build a recommendation system using different algorithms and record the results of each algorithm.
 
 To run these notebooks please install the suprise python library, and pandas
+
 plotly can be installed to view graphs in several notebooks
